@@ -3,7 +3,7 @@ return [
     '@class' => 'Grav\\Common\\Service\\ConfigServiceProvider',
     'type' => 'config',
     'environment' => 'grav.test',
-    'timestamp' => 1784806829,
+    'timestamp' => 1784807489,
     'check_interval' => 2,
     'directories' => [
         'C:/laragon/www/grav/user/config' => 1784805042,
@@ -27,7 +27,7 @@ return [
         'C:/laragon/www/grav/user/config/media.yaml' => 1784593342,
         'C:/laragon/www/grav/user/config/plugins/api.yaml' => 1784805074,
         'C:/laragon/www/grav/user/config/site.yaml' => 1784593342,
-        'C:/laragon/www/grav/user/config/system.yaml' => 1784806773,
+        'C:/laragon/www/grav/user/config/system.yaml' => 1784807460,
         'C:/laragon/www/grav/user/config/versions.yaml' => 1784804966,
         'C:/laragon/www/grav/system/config/backups.yaml' => 1784593342,
         'C:/laragon/www/grav/system/config/media.yaml' => 1784593342,
@@ -65,7 +65,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1784806773
+                'modified' => 1784807460
             ],
             'versions' => [
                 'file' => 'user/config/versions.yaml',

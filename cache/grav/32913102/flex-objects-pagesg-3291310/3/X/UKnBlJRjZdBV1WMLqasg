@@ -1,0 +1,25 @@
+1784809185
+01.home
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:34:"Biologic - Cercetare și Inovație";s:12:"body_classes";s:12:"title-center";}s:11:"frontmatter";s:68:"title: Biologic - Cercetare și Inovație
+body_classes: title-center";s:8:"markdown";s:707:"# Bine ați venit la **Biologic**
+
+Domeniul de cercetare biomedicală și tehnologie celulară avansată.
+
+---
+
+## Serviciile Noastre
+
+[Despre Noi](#) [Publicații](#) [Contact](#)
+
+> **Misiunea noastră:** Explorăm structura vieții prin microscopie și analiză genetică de înaltă precizie.
+
+### 01. Analiză ADN & Genomică
+Oferim servicii de secvențiere și interpretare a datelor genetice pentru proiecte educaționale și de cercetare.
+
+<a href="#" class="btn-biologic">Citește mai multe despre servicii</a>
+
+---
+
+### Proiecte Recente
+* **Microbiomul Terestru** — Studiu comparativ asupra biodiversității microscopice.
+* **Structuri Macromoleculare** — Vizualizare 3D a lanțurilor de ADN.";}s:7:"storage";a:6:{s:3:"key";s:4:"home";s:11:"storage_key";s:7:"01.home";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1784806767;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1784806767;}}s:8:"checksum";s:32:"e84915c39cc4492a2466c9f827bb8a42";}}

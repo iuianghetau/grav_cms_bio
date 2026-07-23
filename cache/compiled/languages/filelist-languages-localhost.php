@@ -3,7 +3,7 @@ return [
     '@class' => 'Grav\\Common\\Service\\ConfigServiceProvider',
     'type' => 'languages',
     'environment' => 'localhost',
-    'timestamp' => 1784806776,
+    'timestamp' => 1784807464,
     'check_interval' => 2,
     'directories' => [
         'C:/laragon/www/grav/system/languages' => 1784593342,

@@ -1,0 +1,36 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
+    'filename' => 'C:/laragon/www/grav/user/data/flex/indexes/pages.json',
+    'modified' => 1784808585,
+    'size' => 404,
+    'data' => [
+        'version' => '1.5',
+        'timestamp' => 1784808585,
+        'count' => 2,
+        'index' => [
+            '' => [
+                'key' => '',
+                'storage_key' => '',
+                'template' => NULL,
+                'storage_timestamp' => 1784805800,
+                'children' => [
+                    '01.home' => 1784805627
+                ],
+                'checksum' => '8161715d867520ae06dc3fef7a7fa8ff'
+            ],
+            '01.home' => [
+                'key' => 'home',
+                'storage_key' => '01.home',
+                'template' => 'default',
+                'storage_timestamp' => 1784806767,
+                'markdown' => [
+                    '' => [
+                        'default' => 1784806767
+                    ]
+                ],
+                'checksum' => 'e84915c39cc4492a2466c9f827bb8a42'
+            ]
+        ]
+    ]
+];

@@ -3,7 +3,7 @@ return [
     '@class' => 'Grav\\Common\\Service\\ConfigServiceProvider',
     'type' => 'blueprints',
     'environment' => 'grav.test',
-    'timestamp' => 1784806829,
+    'timestamp' => 1784807489,
     'check_interval' => 2,
     'directories' => [
         'C:/laragon/www/grav/system/blueprints/config' => 1784593342,

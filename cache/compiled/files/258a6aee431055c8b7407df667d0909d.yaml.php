@@ -1,0 +1,34 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'C:/laragon/www/grav/user/accounts/iulianghetau.yaml',
+    'modified' => 1784806234,
+    'size' => 364,
+    'data' => [
+        'state' => 'enabled',
+        'email' => 'iulianghetau@gmail.com',
+        'fullname' => 'ghetau iulian',
+        'title' => 'Administrator',
+        'access' => [
+            'site' => [
+                'login' => true
+            ],
+            'api' => [
+                'super' => true
+            ]
+        ],
+        'hashed_password' => '$2y$10$QMQ4.AdNrWKmYRbWH.lr7OwFicqNFavXzAcJh0G9Ny/DfH.r4y5oW',
+        'created' => 1784805042,
+        'modified' => 1784805042,
+        'avatar' => [
+            
+        ],
+        'twofa_enabled' => false,
+        'twofa_secret' => '',
+        'admin_next' => [
+            'preferences' => [
+                'colorMode' => 'dark'
+            ]
+        ]
+    ]
+];
