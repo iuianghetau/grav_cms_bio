@@ -1,0 +1,52 @@
+/* ===================================================
+   OVERRIDE PALETĂ BIOLOGIC 
+   =================================================== */
+body, html, #page-surround, .page-surround {
+    background-color: #F8FAFC !important;
+    color: #0F172A !important;
+}
+
+.container, fieldset, section, blockquote, .card {
+    background-color: #FFFFFF !important;
+    color: #0F172A !important;
+    border: 1px solid #E2E8F0 !important;
+}
+
+#header, header {
+    background-color: #0F172A !important;
+}
+
+#header a, header a {
+    color: #FFFFFF !important;
+}
+
+a, a:visited {
+    color: #0066CC !important;
+}
+
+a:hover {
+    color: #E41A2B !important;
+}
+
+blockquote {
+    border-left: 4px solid #E41A2B !important;
+    background-color: #FEF2F2 !important;
+    color: #0F172A !important;
+}
+
+/* Stil pentru Buton HTML */
+.btn-biologic {
+    display: inline-block;
+    background-color: #0066CC !important;
+    color: #ffffff !important;
+    padding: 10px 20px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-weight: bold;
+    transition: background 0.3s ease;
+}
+
+.btn-biologic:hover {
+    background-color: #E41A2B !important;
+    color: #ffffff !important;
+}
